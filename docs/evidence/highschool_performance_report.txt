@@ -1,0 +1,36 @@
+==================================================
+  STUDENT PERFORMANCE REPORT
+  Sunrise High School SIS
+==================================================
+
+Total Students: 12
+
+Grade Distribution:
+  A : 4 students
+  A-: 2 students
+  A+: 1 students
+  B : 1 students
+  B-: 1 students
+  B+: 2 students
+  C+: 1 students
+
+Subject Enrollment:
+  Mathematics: 4 students
+  Science: 4 students
+  English: 2 students
+  History: 2 students
+
+Full Student List:
+--------------------------------------------------
+  James Carter              | Grade 9 | Mathematics     | A 
+  John Paul                 | Grade 9 | Science         | A+
+  Lot Brown                 | Grade 9 | Mathematics     | A 
+  Michael Brown             | Grade 9 | History         | C+
+  William Anderson          | Grade 9 | Science         | B+
+  Linda Thomas              | Grade 10 | Mathematics     | A 
+  Maria Lopez               | Grade 10 | English         | B+
+  Sarah Wilson              | Grade 10 | Science         | A 
+  David Martinez            | Grade 11 | English         | B-
+  Robert Johnson            | Grade 11 | Science         | A-
+  Emily Davis               | Grade 12 | Mathematics     | B 
+  Jennifer Taylor           | Grade 12 | History         | A-

@@ -1,8 +1,9 @@
+import psycopg2
 import os
 from dotenv import load_dotenv
-import psycopg2
 
 load_dotenv()
+
 
 def get_connection():
     """Create and return a database connection."""
@@ -11,8 +12,10 @@ def get_connection():
         port="5432",
         dbname="highschool_sis_db",
         user="postgres",
-        password=os.getenv("DB_PASSWORD"),
+        password=os.getenv("DB_PASSWORD")
     )
+
+
 
 def initialize_database():
     """Create all necessary tables if they don't exist."""
